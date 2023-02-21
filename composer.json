@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/mainhost2",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Utya92",
+      "email": "truejuve@gmail.com"
+    }
+  ],
+  "require": {
+    "phpoffice/phpword": "dev-master"
+  }
+}
