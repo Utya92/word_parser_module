@@ -12,4 +12,3 @@ $countService = new CountService($word);
 $count = $countService->getCountNumberCharacters();
 debug($count);
 
-
